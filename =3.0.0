@@ -1,0 +1,8 @@
+Collecting prompt-toolkit
+  Obtaining dependency information for prompt-toolkit from https://files.pythonhosted.org/packages/ee/fd/ca7bf3869e7caa7a037e23078539467b433a4e01eebd93f77180ab927766/prompt_toolkit-3.0.43-py3-none-any.whl.metadata
+  Downloading prompt_toolkit-3.0.43-py3-none-any.whl.metadata (6.5 kB)
+Requirement already satisfied: wcwidth in /home/lm3/anaconda3/envs/llava_eccv_rebuttal/lib/python3.8/site-packages (from prompt-toolkit) (0.2.8)
+Downloading prompt_toolkit-3.0.43-py3-none-any.whl (386 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 386.1/386.1 kB 1.4 MB/s eta 0:00:00
+Installing collected packages: prompt-toolkit
+Successfully installed prompt-toolkit-3.0.43
